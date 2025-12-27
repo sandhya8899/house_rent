@@ -1,0 +1,3 @@
+streamlit
+scklit-learn
+category_encoder
